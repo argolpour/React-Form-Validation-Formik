@@ -1,0 +1,11 @@
+.form-wrapper {
+    width: 500px;
+    margin:200px auto;
+}
+.error {
+    
+    color:red;
+}
+li {
+    list-style: none;
+}
