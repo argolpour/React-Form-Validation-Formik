@@ -18,6 +18,7 @@ const Signup = () => {
         }}
         >
         <Form className="form-group">
+            <h2>Subscribe Form</h2>
         <label htmlFor="firstName">First Name</label>
         <Field  className="form-control" name="firstName" type="text"/>
         <li className="error my-1" ><ErrorMessage name="firstName"/></li>
